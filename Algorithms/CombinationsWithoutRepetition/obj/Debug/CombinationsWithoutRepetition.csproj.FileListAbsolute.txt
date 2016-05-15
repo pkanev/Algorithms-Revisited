@@ -1,0 +1,5 @@
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe.config
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\CombinationsWithoutRepetition\bin\Debug\CombinationsWithoutRepetition.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\CombinationsWithoutRepetition\obj\Debug\CombinationsWithoutRepetition.pdb

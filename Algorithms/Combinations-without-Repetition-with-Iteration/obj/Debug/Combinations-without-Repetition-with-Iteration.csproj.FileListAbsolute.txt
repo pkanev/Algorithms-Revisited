@@ -1,0 +1,5 @@
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition-with-Iteration\bin\Debug\Combinations-without-Repetition-with-Iteration.exe.config
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition-with-Iteration\bin\Debug\Combinations-without-Repetition-with-Iteration.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition-with-Iteration\bin\Debug\Combinations-without-Repetition-with-Iteration.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition-with-Iteration\obj\Debug\Combinations-without-Repetition-with-Iteration.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition-with-Iteration\obj\Debug\Combinations-without-Repetition-with-Iteration.pdb

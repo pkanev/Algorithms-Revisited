@@ -1,0 +1,5 @@
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Cubes\bin\Debug\Cubes.exe.config
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Cubes\bin\Debug\Cubes.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Cubes\bin\Debug\Cubes.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Cubes\obj\Debug\Cubes.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Cubes\obj\Debug\Cubes.pdb

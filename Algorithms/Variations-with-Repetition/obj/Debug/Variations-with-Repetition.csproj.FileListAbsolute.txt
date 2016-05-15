@@ -1,0 +1,6 @@
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Variations-with-Repetition\bin\Debug\Variations-with-Repetition.exe.config
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Variations-with-Repetition\bin\Debug\Variations-with-Repetition.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Variations-with-Repetition\bin\Debug\Variations-with-Repetition.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Variations-with-Repetition\obj\Debug\Variations-with-Repetition.csprojResolveAssemblyReference.cache
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Variations-with-Repetition\obj\Debug\Variations-with-Repetition.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Variations-with-Repetition\obj\Debug\Variations-with-Repetition.pdb

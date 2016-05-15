@@ -1,0 +1,6 @@
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\PermutationsWithRepetitions\bin\Debug\PermutationsWithRepetitions.exe.config
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\PermutationsWithRepetitions\bin\Debug\PermutationsWithRepetitions.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\PermutationsWithRepetitions\bin\Debug\PermutationsWithRepetitions.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\PermutationsWithRepetitions\obj\Debug\PermutationsWithRepetitions.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\PermutationsWithRepetitions\obj\Debug\PermutationsWithRepetitions.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\PermutationsWithRepetitions\obj\Debug\PermutationsWithRepetitions.csprojResolveAssemblyReference.cache

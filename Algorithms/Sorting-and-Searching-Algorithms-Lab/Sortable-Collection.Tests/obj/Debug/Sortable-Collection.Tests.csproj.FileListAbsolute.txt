@@ -1,0 +1,7 @@
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.csprojResolveAssemblyReference.cache
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.dll
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\bin\Debug\Sortable-Collection.Tests.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.exe
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\bin\Debug\01.Students-And-Courses.pdb
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.dll
+C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Sorting-and-Searching-Algorithms-Lab\Sortable-Collection.Tests\obj\Debug\Sortable-Collection.Tests.pdb
