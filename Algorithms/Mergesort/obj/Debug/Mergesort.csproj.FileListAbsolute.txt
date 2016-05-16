@@ -1,8 +1,0 @@
-C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Mergesort\bin\Debug\Mergesort.exe.config
-C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Mergesort\bin\Debug\Mergesort.exe
-C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Mergesort\bin\Debug\Mergesort.pdb
-C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Mergesort\obj\Debug\Mergesort.exe
-C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Mergesort\obj\Debug\Mergesort.pdb
-C:\Users\duder\Documents\Visual Studio 2015\Projects\Algorithms-Revisited\Algorithms\Mergesort\bin\Debug\Mergesort.exe.config
-C:\Users\duder\Documents\Visual Studio 2015\Projects\Algorithms-Revisited\Algorithms\Mergesort\obj\Debug\Mergesort.exe
-C:\Users\duder\Documents\Visual Studio 2015\Projects\Algorithms-Revisited\Algorithms\Mergesort\obj\Debug\Mergesort.pdb
