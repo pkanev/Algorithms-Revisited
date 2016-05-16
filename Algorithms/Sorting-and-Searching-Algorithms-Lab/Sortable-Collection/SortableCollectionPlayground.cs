@@ -28,7 +28,7 @@
             var collection = new SortableCollection<int>(2, -1, 5, 0, -3);
             Console.WriteLine(collection);
 
-            collection.Sort(new HeapSorter<int>());
+            collection.Sort(new InPlaceMergeSorter<int>());
             Console.WriteLine(collection);
             
             Console.WriteLine(collection.BinarySearch(5));
