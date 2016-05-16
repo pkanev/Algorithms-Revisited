@@ -3,3 +3,9 @@ C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorit
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Snakes\bin\Debug\Snakes.pdb
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Snakes\obj\Debug\Snakes.exe
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Snakes\obj\Debug\Snakes.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Snakes\bin\Debug\Snakes.exe.config
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Snakes\obj\Debug\Snakes.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Snakes\obj\Debug\Snakes.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Snakes\obj\Debug\Snakes.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Snakes\bin\Debug\Snakes.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Snakes\bin\Debug\Snakes.pdb

@@ -4,3 +4,6 @@ C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorit
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\VariationsIterative\obj\Debug\VariationsIterative.exe
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\VariationsIterative\obj\Debug\VariationsIterative.pdb
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\VariationsIterative\obj\Debug\VariationsIterative.csprojResolveAssemblyReference.cache
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsIterative\bin\Debug\VariationsIterative.exe.config
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsIterative\obj\Debug\VariationsIterative.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsIterative\obj\Debug\VariationsIterative.pdb

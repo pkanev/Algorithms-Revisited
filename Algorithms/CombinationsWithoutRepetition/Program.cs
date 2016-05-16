@@ -48,7 +48,7 @@
 
         private static void Print(int[] arr)
         {
-            Console.WriteLine($"({string.Join(", ", arr)})");
+            Console.WriteLine("({0})", string.Join(", ", arr));
         }
     }
 }

@@ -20,7 +20,7 @@
 
             GenerateVariations(0, array);
             Console.Write(output.ToString());
-            Console.WriteLine($"Snakes count = {count}");
+            Console.WriteLine("Snakes count = {0}", count);
         }
 
         private static void GenerateVariations(int index, int[] array)

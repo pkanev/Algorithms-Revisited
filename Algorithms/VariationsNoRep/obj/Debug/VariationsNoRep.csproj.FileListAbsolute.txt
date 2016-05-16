@@ -4,3 +4,9 @@ C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorit
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\VariationsNoRep\bin\Debug\VariationsNoRep.pdb
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\VariationsNoRep\obj\Debug\VariationsNoRep.exe
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\VariationsNoRep\obj\Debug\VariationsNoRep.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsNoRep\bin\Debug\VariationsNoRep.exe.config
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsNoRep\obj\Debug\VariationsNoRep.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsNoRep\obj\Debug\VariationsNoRep.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsNoRep\bin\Debug\VariationsNoRep.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsNoRep\bin\Debug\VariationsNoRep.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\VariationsNoRep\obj\Debug\VariationsNoRep.csprojResolveAssemblyReference.cache

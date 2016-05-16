@@ -3,3 +3,6 @@ C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorit
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition\bin\Debug\Combinations-without-Repetition.pdb
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition\obj\Debug\Combinations-without-Repetition.exe
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-without-Repetition\obj\Debug\Combinations-without-Repetition.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Combinations-without-Repetition\bin\Debug\Combinations-without-Repetition.exe.config
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Combinations-without-Repetition\obj\Debug\Combinations-without-Repetition.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Combinations-without-Repetition\obj\Debug\Combinations-without-Repetition.pdb

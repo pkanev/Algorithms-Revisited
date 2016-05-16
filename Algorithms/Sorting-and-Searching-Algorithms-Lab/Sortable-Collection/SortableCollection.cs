@@ -23,9 +23,18 @@
         {
         }
 
-        public List<T> Items { get; } = new List<T>();
+        // C# 6 feature
+        // public List<T> Items { get; } = new List<T>();
 
-        public int Count => this.Items.Count;
+        public List<T> Items { get; private set; }
+
+        // C# 6 feature
+        // public int Count => this.Items.Count;
+
+        public int Count
+        {
+            get { return this.Items.Count; }
+        }
 
         public void Sort(ISorter<T> sorter)
         {
@@ -86,7 +95,7 @@
 
         public override string ToString()
         {
-            return $"[{string.Join(", ", this.Items)}]";
+            return string.Format("[{0}]", string.Join(", ", this.Items));
         }        
     }
 }

@@ -41,7 +41,7 @@
 
         private static void Print(int[] array)
         {
-            Console.WriteLine($"({string.Join(", ", array)})");
+            Console.WriteLine("({0})", string.Join(", ", array));
         }
     }
 }

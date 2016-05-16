@@ -3,3 +3,6 @@ C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorit
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-with-Repetition\bin\Debug\Combinations-with-Repetition.pdb
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-with-Repetition\obj\Debug\Combinations-with-Repetition.exe
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Combinations-with-Repetition\obj\Debug\Combinations-with-Repetition.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Combinations-with-Repetition\bin\Debug\Combinations-with-Repetition.exe.config
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Combinations-with-Repetition\obj\Debug\Combinations-with-Repetition.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Combinations-with-Repetition\obj\Debug\Combinations-with-Repetition.pdb

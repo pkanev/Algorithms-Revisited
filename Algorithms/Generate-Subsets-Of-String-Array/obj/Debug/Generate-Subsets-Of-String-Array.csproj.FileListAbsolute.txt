@@ -4,3 +4,9 @@ C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorit
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Generate-Subsets-Of-String-Array\obj\Debug\Generate-Subsets-Of-String-Array.csprojResolveAssemblyReference.cache
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Generate-Subsets-Of-String-Array\obj\Debug\Generate-Subsets-Of-String-Array.exe
 C:\Users\duder\Documents\Visual Studio 2015\Projects\AlgorithmsRevisited\Algorithms\Generate-Subsets-Of-String-Array\obj\Debug\Generate-Subsets-Of-String-Array.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Generate-Subsets-Of-String-Array\bin\Debug\Generate-Subsets-Of-String-Array.exe.config
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Generate-Subsets-Of-String-Array\obj\Debug\Generate-Subsets-Of-String-Array.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Generate-Subsets-Of-String-Array\obj\Debug\Generate-Subsets-Of-String-Array.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Generate-Subsets-Of-String-Array\bin\Debug\Generate-Subsets-Of-String-Array.exe
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Generate-Subsets-Of-String-Array\bin\Debug\Generate-Subsets-Of-String-Array.pdb
+C:\Users\p.kanev\Desktop\repo\Algorithms-Revisited\Algorithms\Generate-Subsets-Of-String-Array\obj\Debug\Generate-Subsets-Of-String-Array.csprojResolveAssemblyReference.cache

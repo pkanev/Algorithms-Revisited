@@ -37,7 +37,7 @@
             {
                 result[i] = collection[array[i]];
             }
-            Console.WriteLine($"({string.Join(" ", result)})");
+            Console.WriteLine("({0})", string.Join(" ", result));
         }
     }
 }
