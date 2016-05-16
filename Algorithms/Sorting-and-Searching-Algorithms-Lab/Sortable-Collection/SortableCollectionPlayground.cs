@@ -34,7 +34,7 @@
             Console.WriteLine(collection.BinarySearch(5));
             Console.WriteLine(collection.BinarySearch(20));
 
-            collection = new SortableCollection<int>(Enumerable.Range(0, 20).ToList());
+            collection = new SortableCollection<int>(Enumerable.Range(1, 20).ToList());
             Console.WriteLine(collection);
             collection.Shuffle();
             Console.WriteLine(collection);
