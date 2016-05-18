@@ -39,8 +39,48 @@
 
         public static Item[] FillKnapsack(Item[] items, int capacity)
         {
-            // TODO
-            throw new NotImplementedException();
+            var maxPrice = new int[items.Length, capacity + 1];
+            var isTaken = new bool[items.Length, capacity + 1];
+
+            for (int c = 0; c <= capacity; c++)
+            {
+                if (items[0].Weight <= c)
+                {
+                    maxPrice[0, c] = items[0].Price;
+                    isTaken[0, c] = true;
+                }
+            }
+
+            for (int i = 1; i < items.Length; i++)
+            {
+                for (int c = 0; c <= capacity; c++)
+                {
+                    maxPrice[i, c] = maxPrice[i - 1, c];
+                    var remainingCapacity = c - items[i].Weight;
+                    if (remainingCapacity >= 0 &&
+                        items[i].Price + maxPrice[i-1, remainingCapacity] > maxPrice[i,c])
+                    {
+                        maxPrice[i, c] = items[i].Price + maxPrice[i - 1, remainingCapacity];
+                        isTaken[i, c] = true;
+                    }
+                }
+            }
+
+            var itemsTaken = new List<Item>();
+            int itemIndex = items.Length - 1;
+            while (itemIndex >= 0)
+            {
+                if (isTaken[itemIndex, capacity])
+                {
+                    itemsTaken.Add(items[itemIndex]);
+                    capacity -= items[itemIndex].Weight;
+                }
+                itemIndex--;
+            }
+
+            itemsTaken.Reverse();
+
+            return itemsTaken.ToArray();
         }
     }
 }
