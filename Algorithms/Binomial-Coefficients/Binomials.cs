@@ -1,32 +1,33 @@
 ﻿namespace Binomial_Coefficients
 {
     using System;
+    using System.Numerics;
 
     class Binomials
     {
-        private static int[] factorials;
-        private static int[,] binomials;
+        private static BigInteger[] factorials;
+        private static BigInteger[,] binomials;
 
         static void Main()
         {
             int n = int.Parse(Console.ReadLine());
             int k = int.Parse(Console.ReadLine());
 
-            factorials = new int[n + 1];
-            binomials = new int[n + 1, n + 1];
+            factorials = new BigInteger[n + 1];
+            binomials = new BigInteger[n + 1, n + 1];
 
-            int binomial = CalculateBinomialCoefficient(n, k);
+            BigInteger binomial = CalculateBinomialCoefficient(n, k);
             Console.WriteLine(binomial);
         }
 
-        private static int CalculateBinomialCoefficient(int n, int k)
+        private static BigInteger CalculateBinomialCoefficient(int n, int k)
         {
             if (binomials[n, k] != 0)
             {
                 return binomials[n, k];
             }
 
-            int b;
+            BigInteger b;
             if (n <= 2 && k <= 1)
             {
                 b = 1;
@@ -39,7 +40,7 @@
             return b;
         }
 
-        private static int Calculatefactorial(int i)
+        private static BigInteger Calculatefactorial(int i)
         {
             if (factorials[i] != 0)
             {
@@ -52,7 +53,7 @@
             }
             else
             {
-                int result = i*Calculatefactorial(i - 1);
+                BigInteger result = i*Calculatefactorial(i - 1);
                 factorials[i] = result;
                 return result;
             }
