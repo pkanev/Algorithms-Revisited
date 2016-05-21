@@ -18,7 +18,7 @@
             RecoverPresents(possibleDifferences, minDifference);
         }
 
-        private static void RecoverPresents(SortedDictionary<int, List<int>> possibleDifferences, int minDifference)
+        private static void RecoverPresents(Dictionary<int, List<int>> possibleDifferences, int minDifference)
         {
             var presentsTaken = new List<int>();
             int alanSum = 0;
@@ -50,7 +50,7 @@
             Console.WriteLine("Bob takes the rest.");
         }
 
-        private static int FindMinDifference(SortedDictionary<int, List<int>> possibleDifferences)
+        private static int FindMinDifference(Dictionary<int, List<int>> possibleDifferences)
         {
             int minDifference = 0;
             while (true)
@@ -66,14 +66,16 @@
             return minDifference;
         }
 
-        private static SortedDictionary<int, List<int>> CalculatePossibleDifferences(int[] presents)
+        private static Dictionary<int, List<int>> CalculatePossibleDifferences(int[] presents)
         {
-            var possibleDifferences = new SortedDictionary<int, List<int>>();
+            // Using a greedy algorithm with a sorted list of presents 
+            // may be faster and simpler
+            var possibleDifferences = new Dictionary<int, List<int>>();
             possibleDifferences.Add(0, new List<int>());
 
             foreach (int present in presents)
             {
-                var newDifferences = new SortedDictionary<int, List<int>>();
+                var newDifferences = new Dictionary<int, List<int>>();
                 foreach (var difference in possibleDifferences.Keys)
                 {
                     int newSumDifference = difference + present;
