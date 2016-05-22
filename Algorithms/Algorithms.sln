@@ -83,6 +83,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Topological-Sorting", "G
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Topological-Sorting.Tests", "Graphs-and-Graph-Algorithms-Lab\Topological-Sorting.Tests\4. Topological-Sorting.Tests.csproj", "{0D2A53DF-777D-4A9F-A86D-1CF8610F9C39}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Distance-Between-Vertices", "Distance-Between-Vertices\Distance-Between-Vertices.csproj", "{98B3AFAE-19EB-4CBF-9BD2-0E7341F6B13B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Areas-In-Matrix", "Areas-In-Matrix\Areas-In-Matrix.csproj", "{D9844E60-7EE6-4463-B1BD-72A7B89CF370}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -221,6 +225,14 @@ Global
 		{0D2A53DF-777D-4A9F-A86D-1CF8610F9C39}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D2A53DF-777D-4A9F-A86D-1CF8610F9C39}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D2A53DF-777D-4A9F-A86D-1CF8610F9C39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98B3AFAE-19EB-4CBF-9BD2-0E7341F6B13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98B3AFAE-19EB-4CBF-9BD2-0E7341F6B13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98B3AFAE-19EB-4CBF-9BD2-0E7341F6B13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98B3AFAE-19EB-4CBF-9BD2-0E7341F6B13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D9844E60-7EE6-4463-B1BD-72A7B89CF370}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9844E60-7EE6-4463-B1BD-72A7B89CF370}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9844E60-7EE6-4463-B1BD-72A7B89CF370}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9844E60-7EE6-4463-B1BD-72A7B89CF370}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -262,5 +274,7 @@ Global
 		{7B2961BD-EBA1-4578-B3A5-446B08225683} = {4AB61223-60E7-4ADB-9398-6142D1DA91BE}
 		{13600D00-9867-44C5-AEFE-76BBEA609AD4} = {4AB61223-60E7-4ADB-9398-6142D1DA91BE}
 		{0D2A53DF-777D-4A9F-A86D-1CF8610F9C39} = {4AB61223-60E7-4ADB-9398-6142D1DA91BE}
+		{98B3AFAE-19EB-4CBF-9BD2-0E7341F6B13B} = {D27D385A-015C-4D58-A664-13F6B0317D19}
+		{D9844E60-7EE6-4463-B1BD-72A7B89CF370} = {D27D385A-015C-4D58-A664-13F6B0317D19}
 	EndGlobalSection
 EndGlobal
